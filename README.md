@@ -6,7 +6,7 @@ Each day for at least one hour I, William Ponton will write code.  I will work o
 # I've joined the #100DaysOfCode Challenge!
 
 ## Contact info
-💌 [Gmail](mailto:waponton@gmail.com?subject=[Github]%20I%20saw%20your%20code%20and%20thought%20it%20was%20cool)
+💌 [Gmail](mailto:waponton@gmail.com?subject=[Yo%20Will!]%20I%20saw%20your%20code%20and%20thought%20it%20was%20cool)
 
 :scroll:[LinkedIn](https://www.linkedin.com/in/williampontoncfsp)
 
