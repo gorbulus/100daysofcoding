@@ -22,3 +22,15 @@ I'm excited for the challenge and am looking forward to learning and refreshing 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/100daysofcoding)
 
+
+## Day 1: July 28, 2020
+
+### Today's progress:
+I worked on my portfolio site which will be a web application built in Visual Studio.  I built the site master, added folders for images and data to the project and some basic css copied from an older site.  The goal for this page is to create a place for projects, photos, recipes, and blogging.
+
+### Thoughts:
+
+I had trouble getting Github setup with this project because I already has a repository locally and I wasn't able to sync the work to the new repo on GH.  Will try again!
+
+### Link to work:
+None yet, working on a public link to the project.
