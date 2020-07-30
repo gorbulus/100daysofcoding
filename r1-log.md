@@ -34,3 +34,15 @@ I had trouble getting Github setup with this project because I already has a rep
 
 ### Link to work:
 None yet, working on a public link to the project.
+
+## Day 2: July 29, 2020
+
+### Today's progress:
+Worked more on the portfolio site.  Added a contact page, filled out the about section and updates some formatting.  I created a css file and also wrote some formatting.
+
+### Thoughts:
+
+This project is a place for me to showcase projects/dashboards, post pictures, and blog.  I was inspired by another friend whose site is amazing!  Check out in the [Resources](resources.md) file!
+
+### Link to work:
+None yet, working on a public link to the project.
