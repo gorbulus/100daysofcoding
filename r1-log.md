@@ -54,7 +54,7 @@ Today I kept picking at the portfolio site.  I added a page that will hold trave
 
 ### Thoughts:
 
-I have build web apps which ran locally but I have never deployed so I am excited to learn that process and am a bit overwhelmed at the choices (AQS, Heroku, etc).  I am also wondering if my next project should be to make some apps with Django because I have two books I have been meaning to dig into for some time.
+I have build web apps which ran locally but I have never deployed so I am excited to learn that process and am a bit overwhelmed at the choices (AWS, Heroku, etc).  I am also wondering if my next project should be to make some apps with Django because I have two books I have been meaning to dig into for some time.
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/100daysofcoding)
