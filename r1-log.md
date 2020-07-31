@@ -33,7 +33,7 @@ I worked on my portfolio site which will be a web application built in Visual St
 I had trouble getting Github setup with this project because I already has a repository locally and I wasn't able to sync the work to the new repo on GH.  Will try again!
 
 ### Link to work:
-None yet, working on a public link to the project.
+[Github](https://www.github.com/gorbulus/100daysofcoding)
 
 ## Day 2: July 29, 2020
 
@@ -45,7 +45,7 @@ Worked more on the portfolio site.  Added a contact page, filled out the about s
 This project is a place for me to showcase projects/dashboards, post pictures, and blog.  I was inspired by another friend whose site is amazing!  Check out in the [Resources](resources.md) file!
 
 ### Link to work:
-None yet, working on a public link to the project.
+[Github](https://www.github.com/gorbulus/100daysofcoding)
 
 ## Day 3: July 30, 2020
 
@@ -57,4 +57,5 @@ Today I kept picking at the portfolio site.  I added a page that will hold trave
 I have build web apps which ran locally but I have never deployed so I am excited to learn that process and am a bit overwhelmed at the choices (AQS, Heroku, etc).  I am also wondering if my next project should be to make some apps with Django because I have two books I have been meaning to dig into for some time.
 
 ### Link to work:
-None yet, working on a public link to the project.
+[Github](https://www.github.com/gorbulus/100daysofcoding)
+
