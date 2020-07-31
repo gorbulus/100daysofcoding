@@ -46,3 +46,15 @@ This project is a place for me to showcase projects/dashboards, post pictures, a
 
 ### Link to work:
 None yet, working on a public link to the project.
+
+## Day 3: July 30, 2020
+
+### Today's progress:
+Today I kept picking at the portfolio site.  I added a page that will hold travel photos and I am thinking that some kind of parralax scrolling or svg animation would be cool to learn.  I think I found some ways to get help with syncing this VS project to Github and need to sort it out this weekend! I am going to use this [article](https://gist.github.com/alexpchin/102854243cd066f8b88e) to start.  I also found a really cool [git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) that will help me.  I'm ok at bash and cmd but don't know all the commands by heart.
+
+### Thoughts:
+
+I have build web apps which ran locally but I have never deployed so I am excited to learn that process and am a bit overwhelmed at the choices (AQS, Heroku, etc).  I am also wondering if my next project should be to make some apps with Django because I have two books I have been meaning to dig into for some time.
+
+### Link to work:
+None yet, working on a public link to the project.

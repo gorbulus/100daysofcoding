@@ -12,3 +12,8 @@ This page acts as a repository for any resources, interesting articles, videos, 
 [Will R Chase's site](https://www.williamrchase.com/) is a huge inspiration for my personal portfolio site.  I love Will's site because it shows a lot of personality and has some really impressive visualizations.
 
 [Angela Baltes](https://angelabaltes.com/) my friend from a Python bootcamp also has a killer site that I was inspired by.  I love simplicity and professionalism of her site.
+
+## Day 3
+[This article](https://gist.github.com/alexpchin/102854243cd066f8b88e) is a start to solving my problem of pushing a local project to a new Git repo from VS.
+
+This Git [Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) is a nifty cheat sheet for Git commands.  I saw another one and need to add that as well...tired..
