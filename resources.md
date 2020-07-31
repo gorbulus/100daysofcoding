@@ -16,4 +16,6 @@ This page acts as a repository for any resources, interesting articles, videos, 
 ## Day 3
 [This article](https://gist.github.com/alexpchin/102854243cd066f8b88e) is a start to solving my problem of pushing a local project to a new Git repo from VS.
 
-This Git [Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) is a nifty cheat sheet for Git commands.  I saw another one and need to add that as well...tired..
+This Git [Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) is a nifty cheat sheet for Git commands.
+
+Ultimate [Git](https://gist.github.com/cferdinandi/ef665330286fd5d7127d#file-terminal-cheat-sheet-txt) cheat sheet right here.  I stumbled on this one and I think this will solve all my problems.
