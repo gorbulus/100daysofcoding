@@ -59,3 +59,14 @@ I have build web apps which ran locally but I have never deployed so I am excite
 ### Link to work:
 [Github](https://www.github.com/gorbulus/100daysofcoding)
 
+## Day 4: July 31, 2020
+
+### Today's progress:
+Not a ton of steam left over tonight after a big week at work, so I added some css to the personal site and played around with image formatting in the jumbotron (sizing).  Big plans to move this forward this weekend!
+
+### Thoughts:
+
+Although my passion is realted to data analytics and numerical analysis, I need a place to house my projects and a simple site is a great way to accomplish that, so the site is my top priority in this code sprint.  My plans is to have a deployed site by mid-August at the latest so I can start populating with dashboards and projects!
+
+### Link to work:
+[Github](https://www.github.com/gorbulus/100daysofcoding)
