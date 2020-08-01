@@ -66,7 +66,7 @@ Not a ton of steam left over tonight after a big week at work, so I added some c
 
 ### Thoughts:
 
-Although my passion is realted to data analytics and numerical analysis, I need a place to house my projects and a simple site is a great way to accomplish that, so the site is my top priority in this code sprint.  My plans is to have a deployed site by mid-August at the latest so I can start populating with dashboards and projects!
+Although my passion is related to data analytics and numerical analysis, I need a place to house my projects and a simple site is a great way to accomplish that so the site is my top priority in this code sprint.  My plan is to have a deployed site by mid-August at the latest so I can start populating with dashboards and projects!
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/100daysofcoding)
