@@ -19,3 +19,6 @@ This page acts as a repository for any resources, interesting articles, videos, 
 This Git [Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/) is a nifty cheat sheet for Git commands.
 
 Ultimate [Git](https://gist.github.com/cferdinandi/ef665330286fd5d7127d#file-terminal-cheat-sheet-txt) cheat sheet right here.  I stumbled on this one and I think this will solve all my problems.
+
+## Day 5
+I finally solved my Github upstream problem using this [article](https://techoverflow.net/2017/08/09/how-to-solve-git-fatal-no-configured-push-destination/) I found after googling the error in my VS compiler.  Eureka!

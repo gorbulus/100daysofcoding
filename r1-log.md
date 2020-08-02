@@ -70,3 +70,16 @@ Although my passion is related to data analytics and numerical analysis, I need 
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/100daysofcoding)
+
+
+## Day 5: August 1, 2020
+
+### Today's progress:
+Eureka!  I finally solved the problem I was having pushing my portfolio site files to Github and synced up my local environment with a new repo.  I learned about upstream remote origins and sharpened my command line skills.  I really like Anaconda so I mainly user anacondaprompt for command line, and that's where I had success... go figure.  I found a great site that helped me linked in the [resources](resources.md)
+
+### Thoughts:
+
+The small victories in solving a problem is the reward with computer science.  Sometimes it's easy to get frustrated or overwhelmed by a problem that you don't understand but perserverence will crack the nut every time.
+
+### Link to work:
+[Github](https://www.github.com/gorbulus/portfolio_site)
