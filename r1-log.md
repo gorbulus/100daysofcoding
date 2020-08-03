@@ -83,3 +83,16 @@ The small victories in solving a problem is the reward with computer science.  S
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/portfolio_site)
+
+
+## Day 6: August 2, 2020
+
+### Today's progress:
+Today I made buttons on the home page for each of the redirected sites and added some links to the nav-bar with emojis.
+
+### Thoughts:
+
+Today was mostly housekeeping and checking over the organization of all the files.  I had a few errors with misspellings in the button vs the event argrument so there were a few small wins in debugging.
+
+### Link to work:
+[Github](https://www.github.com/gorbulus/portfolio_site)
