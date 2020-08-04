@@ -96,3 +96,15 @@ Today was mostly housekeeping and checking over the organization of all the file
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/portfolio_site)
+
+## Day 7: August 3, 2020
+
+### Today's progress:
+I updated the About page and the Contact page with some Bootstrap formatting.  I structured my text and lists in rows and used the command for medium columns.  col-md-4 gives medium columns of a width of 4/12 of the page width.  Bootstrap can be tricky - I need to remember how to add padding so I can do centering or right justification...
+
+### Thoughts:
+
+Remembering bootstrap was rewarding because I really struggled to learn it in my ASP.Net course.  That course was difficult because it combined HTML, CSS, C#, SQL, and some Javascript all at once so it was easy to get lost in "what's breaking!?!".  I struggled with organizing the page in columns and rows and now feel like my trauma paid off because I easily picked it back up.
+
+### Link to work:
+[Github](https://www.github.com/gorbulus/portfolio_site)
