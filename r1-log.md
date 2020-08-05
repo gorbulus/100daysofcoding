@@ -108,3 +108,15 @@ Remembering bootstrap was rewarding because I really struggled to learn it in my
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/portfolio_site)
+
+
+## Day 8: August 4, 2020
+
+### Today's progress
+Tonight I organized some images that I am going to use on the travel, dog, and food section of the site.  I spent quite a lot of time formatting and resizing the images to add tiles to the pages.
+
+### Thoughts:
+Not a ton of coding but I didn't have much time after class tonight.
+
+### Link to work:
+[Github](https://www.github.com/gorbulus/portfolio_site)
