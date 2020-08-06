@@ -120,3 +120,18 @@ Not a ton of coding but I didn't have much time after class tonight.
 
 ### Link to work:
 [Github](https://www.github.com/gorbulus/portfolio_site)
+
+
+## Day 9: August 5, 2020
+
+### Today's progress
+📬 Today I worked on my site again and updated my Contact page and added some code to populate a subject line when a user clicks "Email me".
+
+In the hyperlink reference, add "?subject=" and then write your subject line. Use the "%20" mask for spaces because the link will break if you use the spacebar and break the string.
+
+Example:
+<a href="mailto:myEmail@gmail.com?subject=[Yo%20Will!]%20I%20saw%20your%20code%20and%20thought%20it%20was%20cool">💌 Email me</a>
+
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/blob/master/williamaponton/Contact.aspx)
