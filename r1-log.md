@@ -129,9 +129,21 @@ Not a ton of coding but I didn't have much time after class tonight.
 
 In the hyperlink reference, add "?subject=" and then write your subject line. Use the "%20" mask for spaces because the link will break if you use the spacebar and break the string.
 
-Example:
+#### Example:
 <a href="mailto:myEmail@gmail.com?subject=[Yo%20Will!]%20I%20saw%20your%20code%20and%20thought%20it%20was%20cool">💌 Email me</a>
 
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/blob/master/williamaponton/Contact.aspx)
+
+
+## Day 10: August 6, 2020
+
+### Today's progress
+This evening I updated more pages on my site with 👢 Bootstrap containers and ways to organize the images and links that will be populated soon. I want to learn more about SVG and animation so I did some googling and found a cool [background generator](https://www.svgbackgrouns.com) that will come in handy! 💡
+
+### Thoughts
+I like the presets and want to tinker with a cool background and add my personal logo.  Check out the SVG background generator in the [Resources](resources.md) log.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
