@@ -25,3 +25,6 @@ Ultimate [Git](https://gist.github.com/cferdinandi/ef665330286fd5d7127d#file-ter
 
 ## Day 5
 I finally solved my Github upstream problem using this [article](https://techoverflow.net/2017/08/09/how-to-solve-git-fatal-no-configured-push-destination/) I found after googling the error in my VS compiler.  Eureka!
+
+## Day 10
+Found a really cool SVG generator site that creates the css code for complex backgrounds.  Really cool!  Check it out - [SVG Backgrounds](https://www.svgbackgrounds.com)
