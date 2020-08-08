@@ -147,3 +147,15 @@ I like the presets and want to tinker with a cool background and add my personal
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 11: August 7, 2020
+
+### Today's progress
+Tonight I added more Bootstrap to my Default page and also some css for the buttons.  I researched some hosting sites and looked up domains to see what my options would be.  I think it's down to GoDaddy or Bluehost but I need to do more research.
+
+### Thoughts
+I plan to deploy the site soon, hopefully this week.  Next steps are adding images and a possibly a database for holding user logins?
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
