@@ -159,3 +159,14 @@ I plan to deploy the site soon, hopefully this week.  Next steps are adding imag
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+## Day 12: August 8, 2020
+
+### Today's progress
+Today I worked on the image grid system for the pages that will hold images on my site. I have a ton of cropping and resizing to do to align my vision of the pages and the reality of the images I want displayed. Also researched parralax scrolling and some more modern design styles which I will incorporate as well. Can't believe how much I've done in just 12 days and I am still loving this challenge!
+
+### Thoughts
+Still amped up about the 100 Days of Coding challengs and I'm so excited for what's next after I finish the site!  The next step will be to fill up the project site with some basic projects that I've completed and add in a few that I have in mind for the 100 Days Challenge that will be new.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
