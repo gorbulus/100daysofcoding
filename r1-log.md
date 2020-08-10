@@ -170,3 +170,15 @@ Still amped up about the 100 Days of Coding challengs and I'm so excited for wha
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 13: August 9, 2020
+
+### Today's progress
+Tonight I organized the Projects page on my portfolio site and added and image grid and links to some of my favorite projects.  I linked to the Wine Review Analysis, Slot Machine, and PyPass Gen password generator.  I played with the svg background generator but didn't get the one I liked to work - will try again.
+
+### Thoughts
+I want to have links to Github code and actual deployed apps from this projects page where a users can choose between "Code" or "App" and use the tools I build.  I also would like to add a dropdown list for various coding languages and technologies in each project and allow the user to filter.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
