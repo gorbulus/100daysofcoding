@@ -182,3 +182,15 @@ I want to have links to Github code and actual deployed apps from this projects 
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 14: August 10, 2020
+
+### Today's progress
+This is finals week for Summer term so I focused on studying for those exams tonight.  I read a few articles on Medium and added some [resources](resources.md) for after my final tomorrow!
+
+### Thoughts
+I'm eager for the Summer term to be over so I can dedicate more time to my coding projects.  Doing this challenge has resparked my love of problem solving and using my creativity and technological skills together.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
