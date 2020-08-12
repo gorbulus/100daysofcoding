@@ -194,3 +194,15 @@ I'm eager for the Summer term to be over so I can dedicate more time to my codin
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 15: August 11, 2020
+
+### Today's progress
+Tonight after class I added a dropdown list to the projects page so users can browse projects with different technologies.  I want to showcase a holistic view of my skills from SQL to C++, Python and Data Analysis.
+
+### Thoughts
+Need to get this site deployed and figure out how to link my working projects to the project page!  Shouldn't be too hard but I don't have too much extra free time during finals week.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
