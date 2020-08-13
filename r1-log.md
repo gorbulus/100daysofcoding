@@ -206,3 +206,15 @@ Need to get this site deployed and figure out how to link my working projects to
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 16: August 12, 2020
+
+### Today's progress
+📝 Tonight I added three pages to my site project that are linked through the travel page.  Each page will hold some favorite pics from some of my favorite places.  I also added links through the image placeholders so clicking the pic will redirect the user.  🔀
+
+### Thoughts
+I'm getting better at this each day although I'm just doing some easy HTML and Bootstrap stuff right now.  I will be excited to get this site posted and then will shift my focus to some dashboards and R projects I have in mind!
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/travel)
