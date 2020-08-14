@@ -218,3 +218,15 @@ I'm getting better at this each day although I'm just doing some easy HTML and B
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/travel)
+
+
+## Day 17: August 13, 2020
+
+### Today's progress
+📝 Today I updated the Food page with and image grid and added some additional pages for recipes.  I want to use this space for a database hookup for sharing our favorite recipes.  Photos too of course!  🔀
+
+### Thoughts
+We love to cook and during Quarantine we tried so many new recipes and copycate dishes from our favorite restaurants.  When we craved something like enchiladas, we did some research and tried to perfect our techniques.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
