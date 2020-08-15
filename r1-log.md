@@ -230,3 +230,15 @@ We love to cook and during Quarantine we tried so many new recipes and copycate 
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 18: August 14, 2020
+
+### Today's progress
+Updated the Dogs page - same updates as the other pages, added image grid, placeholder images and some formatting.  This weekend I will add the images to the pages and scale the site.  Plan to deploy this upcoming week!
+
+### Thoughts
+Finals are over and it's time to wrap up this website mini-project and  get to some real coding.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
