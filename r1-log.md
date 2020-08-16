@@ -247,7 +247,7 @@ Finals are over and it's time to wrap up this website mini-project and  get to s
 ## Day 19: August 15, 2020
 
 ### Today's progress
-Tonight I worked on cropping and formatting tons of photos for my site.  I researched ways to have mutiple sized photos fit within the Bootstrap framework.  I want to have parallax scrolling and svg animation so I am looking at how to include those features as well.
+Tonight I worked on cropping and formatting tons of photos for my site.  I researched ways to have mutiple sized photos fit within the Bootstrap framework.  I want to have parallax scrolling and svg animation so I am looking at how to include those features as well. 🐦
 
 ### Thoughts
 I want my site to have a modern and creative design.  Part of what I love about coding is the creativity and freedom to build things in your own way.
