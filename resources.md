@@ -28,3 +28,6 @@ I finally solved my Github upstream problem using this [article](https://techove
 
 ## Day 10
 Found a really cool SVG generator site that creates the css code for complex backgrounds.  Really cool!  Check it out - [SVG Backgrounds](https://www.svgbackgrounds.com)
+
+## Day 20
+I was researching some ways to have multiple sized images responsive to different screen views and came upon this article about srcset and sizes attributes.  Check it out - [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
