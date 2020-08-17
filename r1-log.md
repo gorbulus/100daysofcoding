@@ -254,3 +254,14 @@ I want my site to have a modern and creative design.  Part of what I love about 
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+## Day 20: August 16, 2020
+
+### Today's progress
+Updated all the pages to make sure I have comments and everything is standardized.  Worked on a second 'footer' jumbotron with an image of Irazu!  I cleaned up some images that weren't links as well.
+
+### Thoughts
+Ready to add pictures and deploy soon!
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
