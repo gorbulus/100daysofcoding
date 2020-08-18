@@ -265,3 +265,15 @@ Ready to add pictures and deploy soon!
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 21: August 17, 2020
+
+### Today's progress
+Day 21 of 100 days of code! I'm still working on the website but I have learned a ton about Bootstrap and and responsive web design.  Tonight I
+
+### Thoughts
+This challenge is going well and I can't wait to deploy the site and add connect some of my other projects.  I thing Django would be a very useful tool to use so I want to somehow include Django in my next web app.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
