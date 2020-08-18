@@ -31,3 +31,6 @@ Found a really cool SVG generator site that creates the css code for complex bac
 
 ## Day 20
 I was researching some ways to have multiple sized images responsive to different screen views and came upon this article about srcset and sizes attributes.  Check it out - [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+## Day 21
+More research on responsive image grids and I found a few other great tutorials from W3 School.  [How To - Image Grid](https://www.w3schools.com/howto/howto_js_image_grid.asp) as well as [CSS Image SPrites](https://www.w3schools.com/css/css_image_sprites.asp).
