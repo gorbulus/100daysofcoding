@@ -270,10 +270,21 @@ Ready to add pictures and deploy soon!
 ## Day 21: August 17, 2020
 
 ### Today's progress
-Day 21 of 100 days of code! I'm still working on the website but I have learned a ton about Bootstrap and and responsive web design.  Tonight I
+Day 21 of 100 days of code! I'm still working on the website but I have learned a ton about Bootstrap and and responsive web design.
 
 ### Thoughts
 This challenge is going well and I can't wait to deploy the site and add connect some of my other projects.  I thing Django would be a very useful tool to use so I want to somehow include Django in my next web app.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
+
+## Day 22: August 18, 2020
+
+### Today's progress
+Massive progress this evening!  I added the pictures to the image grid on two of the travel pages.  I have the images organized and displayed and need to continue to work on the css to achieve the effect that I am looking for.
+
+### Thoughts
+Big progress today, very happy!
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
