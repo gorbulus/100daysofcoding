@@ -288,3 +288,14 @@ Big progress today, very happy!
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+## Day 23: August 19, 2020
+
+### Today's progress
+Tonight was spent troubleshooting and debugging some kind of css error (I think!).  Somehow I messed something up when I added images on Day 22 and I've lost my navigation bar and links from the site master.  I can't tell where the error is so I didn't push to Github because I can use that code to audit my changes.
+
+### Thoughts
+Frustrating, but debugging is a big part of being a good developer.  I am learning tons in troubleshooting this issue and will eventually fix the error.  I also now know that I need to make some branches instead of always merging changes to the master branch.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
