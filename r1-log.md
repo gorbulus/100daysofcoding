@@ -301,3 +301,15 @@ I have some friends at work that might be able to help me solve the navbar issue
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 25: August 21, 2020
+
+### Today's progress
+Tonight I added pictures to the travel pages and continued to work on the organization and formatting of the image grid.  Still haven't solved the navbar error I have, feel confident that I can fix it this weekend.
+
+### Thoughts
+Classes are over and now I have some real time to sink into the coding projects I have planned!
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
