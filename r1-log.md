@@ -313,3 +313,15 @@ Classes are over and now I have some real time to sink into the coding projects 
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 26: August 22, 2020
+
+### Today's progress
+Progress today on the projects page.  I organized the various projects into 'cards' with an image and description using Bootstrap.
+
+### Thoughts
+Still haven't figured out my nav bar issue, I'm thinking of starting an entire new project and copying over the working code.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
