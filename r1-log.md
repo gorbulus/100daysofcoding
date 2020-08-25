@@ -325,3 +325,26 @@ Still haven't figured out my nav bar issue, I'm thinking of starting an entire n
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 27: August 23, 2020
+
+### Today's progress
+This afternoon I worked on updating images on the travel page.  I also progressed in troubleshooting the navbar issue I am having and I feel that I am very close to solving it!
+
+### Thoughts
+Not much work on the site this week, but I am really ready to solve my navbar issue and move on to something else.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
+
+## Day 28: August 24, 2020
+
+### Today's progress
+TOday I continued to work on the formatting of the image grids for my travel pages.  I organized the images into columns and made the width on the images responsive.
+
+### Thoughts
+More image work and some work on INE, my Python courses.
+
+### Link to work:
+[Github](https://github.com/gorbulus/portfolio_site/)
