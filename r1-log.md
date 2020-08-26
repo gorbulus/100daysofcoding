@@ -341,10 +341,23 @@ Not much work on the site this week, but I am really ready to solve my navbar is
 ## Day 28: August 24, 2020
 
 ### Today's progress
-TOday I continued to work on the formatting of the image grids for my travel pages.  I organized the images into columns and made the width on the images responsive.
+Today I continued to work on the formatting of the image grids for my travel pages.  I organized the images into columns and made the width on the images responsive.
 
 ### Thoughts
 More image work and some work on INE, my Python courses.
 
 ### Link to work:
 [Github](https://github.com/gorbulus/portfolio_site/)
+
+
+## Day 29: August 25, 2020
+
+### Today's progress
+Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
+
+### Thoughts
+I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
+
+
+### Link to work:
+[Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
