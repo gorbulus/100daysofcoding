@@ -400,7 +400,20 @@ I needed the refresher on some of the more esoteric corners of Python.  When I t
 [Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
 
 
-## Day 32: August 28, 2020
+## Day 33: August 29, 2020
+
+### Today's progress
+Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
+
+### Thoughts
+I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
+
+
+### Link to work:
+[Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
+
+
+## Day 34: August 30, 2020
 
 ### Today's progress
 Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
