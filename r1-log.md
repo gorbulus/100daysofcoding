@@ -381,7 +381,7 @@ I needed the refresher on some of the more esoteric corners of Python.  When I t
 Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
 
 ### Thoughts
-I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
+I was having some trouble with understanding the exercise for the second problem.  Part of being a good problem solver is being able to decipher what's the cause and to see how the pieces fit together to resolve the task.
 
 
 ### Link to work:
@@ -390,11 +390,10 @@ I needed the refresher on some of the more esoteric corners of Python.  When I t
 ## Day 32: August 28, 2020
 
 ### Today's progress
-Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
+Tonight's progress continued on my INE coursework.  In the dataset, the various football players are structured as a "list of lists".  Each team is a list of players, and each player is also represented as a list with information about the player.  This type of data structure is very common in the real world  - invoices and customers.
 
 ### Thoughts
-I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
-
+I really love the challenging assignments in the RMOTR coursework (INE now).  Sanitago and his team really made engaging activities that keep your brain moving.
 
 ### Link to work:
 [Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
@@ -403,11 +402,10 @@ I needed the refresher on some of the more esoteric corners of Python.  When I t
 ## Day 33: August 29, 2020
 
 ### Today's progress
-Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
+The first portion of the football dictionary project is rather simple, turn the provided squad data into a dictionary.  From there you can easily call the records in the dict that hold the team and player data.  The second assignment is to group the players into lists by position.  A bit more tricky.
 
 ### Thoughts
-I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
-
+Python is strange sometimes, especially coming from typesafe languages like the C family.
 
 ### Link to work:
 [Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
@@ -416,11 +414,22 @@ I needed the refresher on some of the more esoteric corners of Python.  When I t
 ## Day 34: August 30, 2020
 
 ### Today's progress
-Tonight's progress continued on my INE coursework.  The project at the end of the first module is related to nested dictionaries and turninig a list of data into a structured object/data type.
+Worked on part three of the assignment tonight - almost finished!  The final part of the exercise is to add one more layer of nesting and group the players by country and then position.
 
 ### Thoughts
-I needed the refresher on some of the more esoteric corners of Python.  When I took the RMOTR bootcamp in 2019 I learned so much and there's certainly some topics that I didn't dive deeeply into so I am glad to retake some of the new RMOTR modules via the INE platform.
+THis reminds me of linked lists when I learned C, so although the concept can be tough to conceptualize, the overall idea makes perfect sense when you understand.  Another example is the volume of revolutionary solids from Calc II. *shudders*
 
+### Link to work:
+[Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
+
+
+## Day 35: August 31, 2020
+
+### Today's progress
+Worked on part three of the assignment tonight - almost finished!  The final part of the exercise is to add one more layer of nesting and group the players by country and then position.
+
+### Thoughts
+THis reminds me of linked lists when I learned C, so although the concept can be tough to conceptualize, the overall idea makes perfect sense when you understand.  Another example is the volume of revolutionary solids from Calc II. *shudders*
 
 ### Link to work:
 [Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
