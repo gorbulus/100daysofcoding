@@ -429,7 +429,19 @@ THis reminds me of linked lists when I learned C, so although the concept can be
 Worked on part three of the assignment tonight - almost finished!  The final part of the exercise is to add one more layer of nesting and group the players by country and then position.
 
 ### Thoughts
-THis reminds me of linked lists when I learned C, so although the concept can be tough to conceptualize, the overall idea makes perfect sense when you understand.  Another example is the volume of revolutionary solids from Calc II. *shudders*
+This reminds me of linked lists when I learned C, so although the concept can be tough to conceptualize, the overall idea makes perfect sense when you understand.  Another example is the volume of revolutionary solids from Calc II. *shudders*
 
 ### Link to work:
 [Github](https://github.com/gorbulus/itp-u3-c2-football-dictionaries-1)
+
+
+## Day 36: September 1, 2020
+
+### Today's progress
+This evening I worked on some SQL queries, a short reprieve from the Python and HTML stuff I have been doing.  I think SQL is super useful and I have a big project in the works that will really benefit from some focused queries, so I wanted to practice my skills.  I linked a few tables together and used some aggregate functions.
+
+### Thoughts
+I want to check out MongoDB and PostgreSQL for some Python projects that will need a database.  I want to make a three-layer Django app with a data layer.
+
+### Link to work:
+[Github](https://github.com/gorbulus/)
