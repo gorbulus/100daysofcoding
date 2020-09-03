@@ -445,3 +445,14 @@ I want to check out MongoDB and PostgreSQL for some Python projects that will ne
 
 ### Link to work:
 [Github](https://github.com/gorbulus/)
+
+## Day 37: September 2, 2020
+
+### Today's progress
+This evening I worked on some SQL queries, a short reprieve from the Python and HTML stuff I have been doing.  I think SQL is super useful and I have a big project in the works that will really benefit from some focused queries, so I wanted to practice my skills.  I linked a few tables together and used some aggregate functions.
+
+### Thoughts
+I want to check out MongoDB and PostgreSQL for some Python projects that will need a database.  I want to make a three-layer Django app with a data layer.
+
+### Link to work:
+[Github](https://github.com/gorbulus/)
