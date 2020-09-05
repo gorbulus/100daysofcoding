@@ -470,7 +470,7 @@ I need to explore Github's 'gists', which are code snippets you can save in your
 [Github](https://github.com/gorbulus/)
 
 
-## Day 38: September 3, 2020
+## Day 39: September 4, 2020
 Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
 ### Today's progress
