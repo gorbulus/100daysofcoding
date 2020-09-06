@@ -480,3 +480,15 @@ I need to explore Github's 'gists', which are code snippets you can save in your
 
 ### Link to work:
 [Github](https://github.com/gorbulus/)
+
+
+## Day 40: September 5, 2020
+Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
+
+### Today's progress
+I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
+
+### Thoughts
+
+### Link to work:
+[Github](https://github.com/gorbulus/)
