@@ -461,7 +461,7 @@ I want to check out MongoDB and PostgreSQL for some Python projects that will ne
 ## Day 38: September 3, 2020
 Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
-### Today's progress
+### Today's progr`ess
 I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
 
 ### Thoughts
