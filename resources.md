@@ -34,3 +34,7 @@ I was researching some ways to have multiple sized images responsive to differen
 
 ## Day 21
 More research on responsive image grids and I found a few other great tutorials from W3 School.  [How To - Image Grid](https://www.w3schools.com/howto/howto_js_image_grid.asp) as well as [CSS Image SPrites](https://www.w3schools.com/css/css_image_sprites.asp).
+
+## Day 41
+Matplotlib resources I have been using to update the notebook in the DS Playbook project.
+Check out the [documentation here](https://matplotlib.org/3.3.1/contents.html).
