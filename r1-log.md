@@ -459,22 +459,20 @@ I want to check out MongoDB and PostgreSQL for some Python projects that will ne
 
 
 ## Day 38: September 3, 2020
+
+### Today's progress
 Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
-### Today's progr`ess
-I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
-
 ### Thoughts
+I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
 
 ### Link to work:
 [Github](https://github.com/gorbulus/)
 
 
 ## Day 39: September 4, 2020
-Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
 ### Today's progress
-I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
 
 ### Thoughts
 
@@ -483,10 +481,8 @@ I need to explore Github's 'gists', which are code snippets you can save in your
 
 
 ## Day 40: September 5, 2020
-Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
 ### Today's progress
-I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
 
 ### Thoughts
 
@@ -495,12 +491,35 @@ I need to explore Github's 'gists', which are code snippets you can save in your
 
 
 ## Day 41: September 6, 2020
-Tonight I worked on a new notebook for my DS playbook.  I want to start a series of common functions and cleanup methods to have on hand.
 
 ### Today's progress
-I need to explore Github's 'gists', which are code snippets you can save in your user profile.  These could be very useful for helping me remember some common themes and also help others who check out my profile.
 
 ### Thoughts
 
 ### Link to work:
 [Github](https://github.com/gorbulus/)
+
+
+## Day 42: September 7, 2020
+
+### Today's progress
+This evening I worked on my DS Playbook, adding a page for Matplotlib examples and reference.  I  used some examples from the documentation and a book that I have, so this was a fun notebook to work on.
+
+### Thoughts
+People sometimes overlook Matplotlib for fancier libraries - I really like this tool and the host of cool features that I found in the documentation that I have never used before!
+It would be fun to run through every example in the gallery and do a tutorial for each.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+
+## Day 43: September 8, 2020
+
+### Today's progress
+I worked more on my Matplotlib notebook and added references for simple bar and line charts, scatter plots, and histograms.  I think this week will be spent adding some other cool visualizations from Matplotlib and planning the next notebook.
+
+### Thoughts
+I really had fun coding some simple charts and want to improve my memorization of basic commands and attributes of the common charts.  Adding labels, titles, and making the data tell a story is one of the most important parts of Data Science.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
