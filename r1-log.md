@@ -523,3 +523,70 @@ I really had fun coding some simple charts and want to improve my memorization o
 
 ### Link to work
 [Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+
+## Day 44: September 9, 2020
+
+### Today's progress
+
+### Thoughts
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+
+## Day 45: September 10, 2020
+
+### Today's progress
+Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some amazing uses for these at work!  I am loving this challenge and really feel that my skills are going to improve dramatically.
+
+### Thoughts
+100 Days of code is likely going to turn into 365 days of code.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+
+## Day 46: September 11, 2020
+
+### Today's progress
+Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some amazing uses for these at work!  I am loving this challenge and really feel that my skills are going to improve dramatically.
+
+### Thoughts
+100 Days of code is likely going to turn into 365 days of code.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+## Day 46: September 12, 2020
+
+### Today's progress
+Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some amazing uses for these at work!  I am loving this challenge and really feel that my skills are going to improve dramatically.
+
+### Thoughts
+100 Days of code is likely going to turn into 365 days of code.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+## Day 47: September 13, 2020
+
+### Today's progress
+Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some amazing uses for these at work!  I am loving this challenge and really feel that my skills are going to improve dramatically.
+
+### Thoughts
+100 Days of code is likely going to turn into 365 days of code.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+## Day 48: September 14, 2020
+
+### Today's progress
+Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some amazing uses for these at work!  I am loving this challenge and really feel that my skills are going to improve dramatically.
+
+### Thoughts
+100 Days of code is likely going to turn into 365 days of code.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
