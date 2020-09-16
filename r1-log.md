@@ -590,3 +590,15 @@ Tonight I worked on building heatmaps in my Matplotlib notebook.  I see some ama
 
 ### Link to work
 [Github](https://github.com/gorbulus/DS_Playbook/blob/master/Matplotlib.ipynb)
+
+
+## Day 49: September 15, 2020
+
+### Today's progress
+Tonight I made some charts using data from some of my favorite bands - the rocker dataset.  I believe that throughout the years of talent and musical trends there seems to be a fluctuation in the member count of the artists.  I think that there will be a correlation in member count compared to 5 year segments of time.  It would be interesting to look at this with a wider lense and analyze musical collectives across history.  In the scope of human musical accomplishment, more people were needed to create music in the past due to acoustics and the available technology and skill.
+
+### Thoughts
+This could be due to certain genres and instruments coming into fashion, or some kind of economic indicator of GDP (more money for and programs for people to learn music).  I also believe that art is a result of prosperity - it's well documented that the earliest peoples developed story-telling and music only after they had developed a lifestyle that allowed time for tasks other than pure survival.  Therefore, I say that we will find some correlation between the number of band members in each band related to 5 year segments of time.
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/ds_playbook.ipynb)
