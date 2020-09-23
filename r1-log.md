@@ -679,3 +679,13 @@ This could be due to certain genres and instruments coming into fashion, or some
 
 ### Link to work
 [Github](https://github.com/gorbulus/DS_Playbook/blob/master/ds_playbook.ipynb)
+
+
+# Day 58: September 24, 2020
+
+### Today's progress
+
+### Thoughts
+
+### Link to work
+[Github](https://github.com/gorbulus/DS_Playbook/blob/master/ds_playbook.ipynb)
