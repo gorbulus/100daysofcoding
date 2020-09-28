@@ -718,4 +718,4 @@ This could be due to certain genres and instruments coming into fashion, or some
 ### Thoughts
 
 ### Link to work
-[Github](https://github.com/gorbulus/DS_Playbook/blob/master/ds_playbook.ipynb)
+[Github](https://github.com/gorbulus)
