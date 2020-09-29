@@ -719,3 +719,13 @@ This could be due to certain genres and instruments coming into fashion, or some
 
 ### Link to work
 [Github](https://github.com/gorbulus)
+
+
+# Day 62: September 28, 2020
+
+### Today's progress
+
+### Thoughts
+
+### Link to work
+[Github](https://github.com/gorbulus)
