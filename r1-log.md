@@ -749,3 +749,13 @@ This could be due to certain genres and instruments coming into fashion, or some
 
 ### Link to work
 [Github](https://github.com/gorbulus)
+
+
+# Day 64: October 1, 2020
+
+### Today's progress
+
+### Thoughts
+
+### Link to work
+[Github](https://github.com/gorbulus)
